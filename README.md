@@ -1,10 +1,13 @@
 # Okas Unity Toolkit
 
+![Polycount Analyzer](Documentation~/Images/AnalyzePolycount.png)
+
 This project contains a loose collection of my scripts and tools that I use in my Unity projects.
 Most of them are scripts that I made using ChatGPT and Sonnet with some tweaks here and there.
 They helped me port Unreal Engine Assets, optimize and cleanup my projects more easily.
 
 I will try to flesh them out together with some documentation as I go along.
+You can view the current documentation in the [Documentation~ folder](Documentation~/).
 For now its mainly a backup and convenience for me to use between all of my projects.
 
 ## Credits
