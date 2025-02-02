@@ -1,0 +1,17 @@
+{
+    "name": "com.okabintaro.toolkit",
+    "version": "0.1.0",
+    "displayName": "Okas Unity Toolkit",
+    "description": "A loose collection of tools and scripts for Unity. Mainly tools for optimizing and porting unreal engine projects to Unity.",
+    "unity": "2022.3",
+    "dependencies": {},
+    "keywords": [
+        "unity",
+        "unreal",
+        "optimization"
+    ],
+    "author": {
+        "name": "Okabintaro",
+        "url": "https://github.com/Okabintaro"
+    }
+}
