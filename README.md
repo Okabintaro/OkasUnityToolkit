@@ -18,6 +18,8 @@ The project contains some open source scripts with modifications I made to them.
     - File: [IntelligentMeshCombiner.cs](Editor/Optimize/MeshDecimatorWindow.cs)
     - Made it not update with every change of setting value since since it was causing performance issues.
     - Made it unwrap the UVs of the combined mesh using Bakerys xatlas wrapper
+- [z3y/shaders: Lit Shader](https://github.com/z3y/shaders)
+    - Some scripts assume that the lit shader or a variant of it is used.
 
 ## License
 

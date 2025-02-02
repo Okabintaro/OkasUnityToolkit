@@ -20,7 +20,7 @@ Small script which should help me identify materials that could be combined to r
 
 ![LitMaterialAnalyzer](Images/LitMaterialAnalyzer.png)
 
-This script is designed to be used with the [Lit Shader from z3y]. 
+This script is designed to be used with the [Lit Shader from z3y](https://github.com/z3y/shaders). 
 It scans the scene for Materials using a 'Lit'(Any shader that continas lit in the name) shader, reads their _MaskMap (G=Roughness, B=Metallic) to determine average values, and shows a live preview of how each Material's Specular Highlights, Glossy Reflections, and Lightmapped Specular would be toggled based on a single combined score: (Metallic - Roughness).
 
 The goal is to optimize the materials by making them not use reflection probes or specular highlights when those would be unnoticeable.
